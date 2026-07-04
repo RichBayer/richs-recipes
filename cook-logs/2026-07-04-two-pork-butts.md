@@ -8,57 +8,83 @@ Fourth of July / America 250 BBQ.
 
 - Smoker: Pit Boss Brunswick vertical smoker
 - Meat: 2 pork butts
-- Weight: TBD
-- Style: slightly sweet, Carolina vinegar, no mustard
+- Weight: about 9 lb each
+- Similar weight and fat content
+- Style: pork-forward pulled pork with sweet/savory rub, mild injection, mustard binder, and sauces on the side
 - One pork butt for home
-- One pork butt for Abi to take to a friend's house for fireworks and BBQ
+- Remaining pork goes with Abi to a friend's house for fireworks and BBQ
 
-## Planned prep
+## Actual July 3 prep notes
 
-- Trim loose fat and hard pieces.
-- Use no-mustard binder.
-- Apply house pork rub generously.
-- Refrigerate overnight if possible.
+- Both butts had skin/rind over the fat cap.
+- Skin/rind was trimmed off before injection and rub.
+- Soft fat was left where possible.
+- Both butts were injected.
+- Both butts were seasoned/rubbed.
+- Probes were inserted before refrigerating.
+- Both butts were placed in pans and refrigerated overnight.
+- Pellets were loaded in the smoker.
+- Water pan was filled.
+- Slaw was deferred to July 4 morning.
+- Vinegar sauce will be made July 4 morning.
 
-## Planned smoke
+## Actual injection notes
 
-- Start smoker at 225°F.
+Base injection for both butts:
+
+- 4 cups low-sodium vegetable broth
+- Brown sugar
+- Kosher salt
+- Garlic powder
+- Onion powder
+- Finely ground black pepper
+
+Actual additions:
+
+- About 1/2 tsp extra salt
+- About 1 tbsp Famous Dave's Steak & Burger seasoning
+- About 1 tbsp apple cider vinegar
+
+Taste note:
+
+- Injection tasted good.
+- Next time, probably leave out the extra salt because Famous Dave's Steak & Burger seasoning is already salty.
+
+## Planned July 4 smoke
+
+- Wake up: 2:15 AM
+- Start smoker: 2:30 AM at 250°F
+- Meat on smoker: 3:00 AM
 - Use water pan.
-- Smoke until 160-170°F internal and bark is set.
-- Wrap with a splash of apple juice or apple cider vinegar.
-- Finish around 200-205°F internal.
-- Rest wrapped for at least 1 hour, preferably 2-4 hours.
-- Pull and lightly sauce with sweet Carolina vinegar sauce.
+- Probe both butts.
+- First check around 6:00 AM.
+- Spritz only if the surface looks dry.
+- Wrap in butcher paper when bark is set and internal temp is around 160-170°F.
+- Expected wrap window: 8:30-10:30 AM.
+- Finish around 202-205°F and probe tender.
+- Expected finish window: 12:30-2:30 PM.
+- Rest wrapped in butcher paper/towels inside a cooler.
+- Preferred rest: 2-4 hours.
+- Pull around 4:15-4:30 PM for 5:00 PM meal.
 
-## Timeline option - overnight
+## Contingency plan
 
-- Evening July 3: trim, bind, rub, refrigerate.
-- Late night July 3: start smoker at 225°F.
-- Morning July 4: wrap when bark is set and internal temp is around 160-170°F.
-- Late morning or early afternoon: finish when probe tender.
-- Afternoon: rest, pull, sauce, pack Abi's pan.
-
-## Timeline option - same day
-
-- 4:00 AM: smoker on at 275°F.
-- 4:30 AM: pork on.
-- 9:00-11:00 AM: wrap when bark is set.
-- 1:00-3:00 PM: finish around 200-205°F and probe tender.
-- 3:00-5:00 PM: rest, pull, sauce, pack.
-
-## Actual weights
-
-- Butt 1:
-- Butt 2:
+- If not wrapped by 10:30 AM, wrap when bark is decent even if not perfect.
+- If not near 190°F by noon, raise smoker to 275°F while wrapped.
+- If seriously behind after 1:00 PM, raise smoker to 300°F while wrapped.
 
 ## Actual timing
 
 - Smoker started:
 - Meat on:
+- First check:
+- First spritz:
 - Wrapped:
+- Smoker temp raised, if needed:
 - Finished:
 - Rest started:
 - Pulled:
+- Served:
 
 ## Pellet / wood notes
 
@@ -76,4 +102,4 @@ Fourth of July / America 250 BBQ.
 
 ## Change next time
 
-- 
+- Consider leaving extra salt out of the injection if using Famous Dave's Steak & Burger seasoning again.
