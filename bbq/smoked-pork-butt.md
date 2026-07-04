@@ -20,6 +20,8 @@ Baseline recipe is for **one pork butt**, since that is the normal amount to coo
 
 - 1 pork butt, usually 7-10 lb
 
+If the pork butt has skin/rind over the fat cap, trim the rind off before injecting and seasoning. Leave soft fat where practical so it can render during the cook.
+
 ## Gentle savory injection
 
 This adds moisture, salt, and light seasoning to the interior without defining the final flavor.
@@ -34,6 +36,8 @@ This adds moisture, salt, and light seasoning to the interior without defining t
 - 1/2 tsp finely ground black pepper
 
 If using regular salted broth, reduce the added salt to 1 tsp.
+
+If adding a salty seasoning blend to the injection, reduce or skip the extra kosher salt.
 
 ### Injection method
 
@@ -67,7 +71,7 @@ No cayenne for the family version.
 ## Prep
 
 1. Pat pork butt dry.
-2. Trim loose fat, hard chunks, and ragged edges.
+2. Trim loose fat, hard chunks, ragged edges, and any skin/rind.
 3. Inject with the gentle savory injection.
 4. Refrigerate overnight if possible.
 5. Before smoking, coat lightly with yellow mustard.
@@ -99,17 +103,33 @@ Spritz every 60-90 minutes only as needed. Stop spritzing once wrapped.
 Wrap in butcher paper when both are true:
 
 - Internal temperature is around 160-170°F
-- Bark is set and does not wipe off easily
+- Bark is set, dry to the touch, and does not wipe off easily
+
+The bark matters more than the exact temperature. Do not wrap only because the meat reached a number. If the surface is still wet, soft, or the rub smears, keep smoking until the bark is set.
 
 Before closing the butcher paper, a light spritz or very small splash of apple juice/apple cider vinegar is fine. Do not soak it.
 
 ## Finish
 
-After wrapping, keep cooking until the pork reaches about 200-205°F internal.
+After wrapping, keep cooking until the pork reaches the high 190s to low 200s and becomes probe tender.
 
 Start checking tenderness around 198°F. The final number matters less than probe feel. The probe should slide in with very little resistance.
 
 Typical target: 202-205°F and probe tender.
+
+If the pork is probe tender at 198-201°F, it is done. Do not keep cooking just to chase 203°F.
+
+## Late-start or deadline recovery
+
+If running behind, protect the bark first, then use temperature to recover the schedule.
+
+1. Build bark at 250°F until it is set and dry to the touch.
+2. Wrap in butcher paper.
+3. If the pork stalls or is behind schedule after wrapping, raise the smoker to 275°F.
+4. If seriously behind, 300°F while wrapped is acceptable.
+5. Finish by probe tenderness, not by the number alone.
+
+The July 4, 2026 cook recovered from a late 6:15 AM meat-on time by wrapping after bark set, then raising the smoker to about 275°F during the stall. Two trimmed 9 lb butts finished probe tender around 198-201°F and rested in a towel-lined cooler.
 
 ## Rest
 
@@ -128,8 +148,10 @@ If holding for a long time, keep the meat safely hot. If the internal temperatur
 
 1. Open the wrap over a pan and save the juices.
 2. Pull the pork.
-3. Add a small amount of reserved juices if needed.
-4. Serve sauces on the side.
+3. Remove large pieces of unrendered fat.
+4. Mix bark evenly through the pulled pork.
+5. Add a small amount of reserved juices if needed.
+6. Serve sauces on the side.
 
 Good sauce options:
 
