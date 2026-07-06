@@ -11,6 +11,7 @@ This repo is intentionally simple. Categories can grow naturally over time as re
 - `rubs/` - dry rubs and seasoning blends
 - `menus/` - holiday menus and event plans
 - `cook-logs/` - notes from real cooks, timing, smoker behavior, lessons learned
+- `main-dishes/` - everyday meals, family dinners, and scaled-down institutional recipes
 
 ## First cook
 
